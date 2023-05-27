@@ -48,12 +48,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-* React
-* Node
+/settings/pages
 * PostgreSQL
 
 
@@ -90,11 +85,11 @@ This is an example of how to list things you need to use the software and how to
 
 5. Open up a Terminal in the ***/client*** and 
  ```sh
- ***run npm start***
+ run npm start
  ```
 6. Open up a Terminal in the ***/server*** and 
 ```sh
- ***run npm start***
+ run npm start
  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
