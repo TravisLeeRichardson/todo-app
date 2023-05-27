@@ -114,7 +114,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@nervos_ninija](https://twitter.com/nervos_ninja) - tlrichar@gmail.com
+Travis Richardson - [@nervos_ninja](https://twitter.com/nervos_ninja) - tlrichar@gmail.com
 
 Project Link: [https://github.com/TravisLeeRichardson/todo-app](https://github.com/TravisLeeRichardson/todo-app)
 
